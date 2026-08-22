@@ -159,7 +159,7 @@ GameObject:
   - component: {fileID: 532158001965196311}
   m_Layer: 0
   m_Name: MidPipe
-  m_TagString: Midpipe
+  m_TagString: Mid Pipe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -237,7 +237,7 @@ GameObject:
   - component: {fileID: 4740350767898934873}
   m_Layer: 0
   m_Name: Flappy Bird
-  m_TagString: pipe
+  m_TagString: Pipe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -328,7 +328,7 @@ GameObject:
   - component: {fileID: 7015178458912408633}
   m_Layer: 0
   m_Name: Flappy Bird
-  m_TagString: pipe
+  m_TagString: Pipe
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
